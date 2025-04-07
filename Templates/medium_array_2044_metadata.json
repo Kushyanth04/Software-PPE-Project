@@ -1,0 +1,8 @@
+{
+  "category": "Medium array",
+  "template_problem": "Find The Original Array of Prefix Xor",
+  "target_problem": "Count Number of Maximum Bitwise-OR Subsets",
+  "template_id": "2433",
+  "target_id": "2044",
+  "generation_timestamp": "2024-12-04T10:19:27.830779"
+}
