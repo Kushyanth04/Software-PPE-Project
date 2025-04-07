@@ -1,0 +1,8 @@
+,mean,std,min,max
+,Coverage,Coverage,Coverage,Coverage
+Test Type,,,,
+baseline,100.0,0.0,100.0,100.0
+chatgpt_few,100.0,0.0,100.0,100.0
+chatgpt_zero,100.0,0.0,100.0,100.0
+claude_few,66.67,48.51,0.0,100.0
+claude_zero,94.44,23.57,0.0,100.0
